@@ -13,7 +13,7 @@ Real-time flood monitoring dashboard for Sri Lanka's critical river systems.
 
 ## 🚀 Live Demo
 
-Visit: https://DehanVithana.github.io//lk-flood-watc
+Visit: https://DehanVithana.github.io//lk-flood-watch
 
 ## 💻 Local Development
 
